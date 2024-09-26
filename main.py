@@ -12,5 +12,3 @@ print(my_set)
 my_set.update({10,'Яблоко'})
 my_set.remove(4)
 print(my_set)
-
-
